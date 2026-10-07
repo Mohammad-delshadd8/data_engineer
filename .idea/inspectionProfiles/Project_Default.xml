@@ -1,0 +1,117 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LanguageDetectionInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="altgraph" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="asgiref" />
+          <option value="attrs" />
+          <option value="auto-py-to-exe" />
+          <option value="babel" />
+          <option value="beautifulsoup4" />
+          <option value="bottle" />
+          <option value="bottle-websocket" />
+          <option value="bs4" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="contourpy" />
+          <option value="cv" />
+          <option value="cycler" />
+          <option value="Django" />
+          <option value="Eel" />
+          <option value="fonttools" />
+          <option value="future" />
+          <option value="gevent" />
+          <option value="gevent-websocket" />
+          <option value="greenlet" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="importlib_resources" />
+          <option value="jalali_core" />
+          <option value="jdatetime" />
+          <option value="joblib" />
+          <option value="kiwisolver" />
+          <option value="matplotlib" />
+          <option value="nltk" />
+          <option value="numpy" />
+          <option value="ollama" />
+          <option value="outcome" />
+          <option value="packaging" />
+          <option value="pefile" />
+          <option value="pillow" />
+          <option value="pycparser" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="pyinstaller" />
+          <option value="pyinstaller-hooks-contrib" />
+          <option value="pyodbc" />
+          <option value="pyparsing" />
+          <option value="PySocks" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="pywin32-ctypes" />
+          <option value="regex" />
+          <option value="requests" />
+          <option value="scikit-learn" />
+          <option value="scipy" />
+          <option value="seaborn" />
+          <option value="selenium" />
+          <option value="setuptools" />
+          <option value="six" />
+          <option value="sniffio" />
+          <option value="sortedcontainers" />
+          <option value="soupsieve" />
+          <option value="sqlparse" />
+          <option value="threadpoolctl" />
+          <option value="tkcalendar" />
+          <option value="tqdm" />
+          <option value="trio" />
+          <option value="trio-websocket" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="webdriver-manager" />
+          <option value="websocket-client" />
+          <option value="wsproto" />
+          <option value="zope.event" />
+          <option value="zope.interface" />
+          <option value="altair" />
+          <option value="audio-recorder-streamlit" />
+          <option value="blinker" />
+          <option value="entrypoints" />
+          <option value="gitdb" />
+          <option value="GitPython" />
+          <option value="pyarrow" />
+          <option value="sentencepiece" />
+          <option value="smmap" />
+          <option value="streamlit" />
+          <option value="tenacity" />
+          <option value="torch" />
+          <option value="torchaudio" />
+          <option value="torchtext" />
+          <option value="torchvision" />
+          <option value="pyspark" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pandas" />
+          <option value="scipy" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnusedImportsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
